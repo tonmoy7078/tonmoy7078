@@ -1,4 +1,4 @@
-## 👋 About Me<br><br>Hi, I am Tonmoy Mojumder.  I'm a BSc Engineering student in ICT, passionate about programming and technology.<br><br>- 📚 Currently learning: Java & Data Structures  <br>- 🛠️ Working on: Small programming projects  <br>- 🤝 Open to collaborate on beginner-friendly projects  <br>- 💻 Skilled in: C programming C programming
+## 👋 About Me<br><br>Hi, I am Tonmoy Mojumder.  I'm a BSc Engineering student in ICT, passionate about programming and technology.<br><br>- 📚 Currently learning: Java & Data Structures  <br>- 🛠️ Working on: Small programming projects  <br>- 🤝 Open to collaborate on beginner-friendly projects  <br>- 💻 Skilled in: C programming, JAVA, Data Structure
 
 
 ## 🌐 Socials:
